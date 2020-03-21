@@ -8,3 +8,5 @@ To implement this approach:
 2. Import the json file into Microsoft Flow, generating a POST URL
 3. Set .env variables as needed
 4. Style and serve!
+
+This allows you to store your client secret, username, and password in Flow not your app.
